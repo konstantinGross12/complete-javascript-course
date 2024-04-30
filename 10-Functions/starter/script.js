@@ -1,21 +1,12 @@
-'use strict';
+(function () {
+  const header = document.querySelector('h1');
+  header.style.color = '#ff0000';
+  document.querySelector('body').addEventListener('click', function () {
+    header.style.color = generateRandomHex();
+  });
+})();
 
-const createBooking = function (
-  flightNum,
-  numPassengers = 1,
-  price = 199 * numPassengers
-) {
-  // ES5
-  // numPassengers = numPassengers || 1;
-  // price = price || 199;
-
-  const booking = {
-    flightNum,
-    numPassengers,
-    price,
-  };
-  console.log(booking);
-};
-
-createBooking('LH123');
-createBooking('LH123', 2, 800);
+function generateRandomHex() {
+  const randomColor = '#' + Math.floor(Math.random() * 16777215).toString(16);
+  return randomColor;
+}
