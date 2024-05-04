@@ -92,6 +92,29 @@ displayMovements(account1.movements);
 //   ['GBP', 'Pound sterling'],
 // ]);
 
-// const movements = [200, 450, -400, 3000, -650, -130, 70, 1300];
+const movements = [200, 450, -400, 3000, -650, -130, 70, 1300];
 
 /////////////////////////////////////////////////
+
+const eurToUsd = 1.1;
+const movementsUSD = movements.map(mov => mov * eurToUsd);
+
+const movementsDescriptions = movements.map((mov, i) => {
+  return `Movement ${i + 1}: You ${
+    mov > 0 ? 'deposited' : 'withdrew'
+  } ${Math.abs(mov)}`;
+});
+
+const user = 'Steven Thomas Williams'; // stw
+
+const createUsername = function (user) {
+  const username = user
+    .toLowerCase()
+    .split(' ')
+    .map(name => name[0])
+    .join('');
+  return username;
+};
+
+const username = createUsername(user);
+console.log(username);
