@@ -18,7 +18,6 @@
 116C:\git\complete-javascript-course\18-forkify\starter\node_modules\css-select\node_modules\entities\lib\esm\encode.js133632975063823719 0
 101C:\git\complete-javascript-course\18-forkify\starter\node_modules\css-tree\lib\syntax\node\AnPlusB.js133632975071052829 0
 95C:\git\complete-javascript-course\18-forkify\starter\node_modules\core-js\es\typed-array\set.js133634513524655757 0
-75C:\git\complete-javascript-course\18-forkify\starter\dist\index.e37f48ea.js133635207855850111 0
 71C:\git\complete-javascript-course\18-forkify\starter\node_modules\tslib133632975063486677 1
 120C:\git\complete-javascript-course\18-forkify\starter\node_modules\csso\node_modules\css-tree\lib\syntax\config\parser.js133632975072572631 0
 96C:\git\complete-javascript-course\18-forkify\starter\node_modules\type-fest\source\value-of.d.ts133632975066793186 0
@@ -49,8 +48,8 @@
 111C:\git\complete-javascript-course\18-forkify\starter\node_modules\core-js\internals\async-iterator-prototype.js133634513490180267 0
 102C:\git\complete-javascript-course\18-forkify\starter\node_modules\core-js\features\iterator\indexed.js133634513513555401 0
 90C:\git\complete-javascript-course\18-forkify\starter\node_modules\ansi-styles\package.json133632975059476447 0
+79C:\git\complete-javascript-course\18-forkify\starter\dist\index.e37f48ea.js.map133636057604586770 0
 113C:\git\complete-javascript-course\18-forkify\starter\node_modules\@babel\highlight\node_modules\has-flag\index.js133632975059002424 0
-79C:\git\complete-javascript-course\18-forkify\starter\dist\index.e37f48ea.js.map133635207855907879 0
 120C:\git\complete-javascript-course\18-forkify\starter\node_modules\css-select\node_modules\entities\lib\esm\encode.js.map133632975067184931 0
 122C:\git\complete-javascript-course\18-forkify\starter\node_modules\@babel\highlight\node_modules\color-convert\CHANGELOG.md133632975059012433 0
 81C:\git\complete-javascript-course\18-forkify\starter\node_modules\@parcel\fs\test133632975063167321 1
@@ -76,7 +75,7 @@
 100C:\git\complete-javascript-course\18-forkify\starter\node_modules\core-js\full\symbol\unscopables.js133634513531701803 0
 97C:\git\complete-javascript-course\18-forkify\starter\node_modules\core-js\features\is-iterable.js133634513514644116 0
 98C:\git\complete-javascript-course\18-forkify\starter\node_modules\semver\internal\parse-options.js133632975065956743 0
-57C:\git\complete-javascript-course\18-forkify\starter\dist133635207855917896 1
+57C:\git\complete-javascript-course\18-forkify\starter\dist133636057604601779 1
 119C:\git\complete-javascript-course\18-forkify\starter\node_modules\core-js\actual\reflect\get-own-property-descriptor.js133634513508401041 0
 82C:\git\complete-javascript-course\18-forkify\starter\node_modules\has-flag\license133632975059968155 0
 102C:\git\complete-javascript-course\18-forkify\starter\node_modules\css-tree\lib\syntax\node\Brackets.js133632975071177585 0
@@ -171,7 +170,7 @@
 100C:\git\complete-javascript-course\18-forkify\starter\node_modules\core-js\proposals\seeded-random.js133634513524074698 0
 99C:\git\complete-javascript-course\18-forkify\starter\node_modules\source-map-js\lib\mapping-list.js133632975061173255 0
 103C:\git\complete-javascript-course\18-forkify\starter\node_modules\core-js\modules\esnext.promise.any.js133634513501428364 0
-80C:\git\complete-javascript-course\18-forkify\starter\src\js\views\resultsView.js133635206206971041 0
+80C:\git\complete-javascript-course\18-forkify\starter\src\js\views\resultsView.js133636057049379803 0
 99C:\git\complete-javascript-course\18-forkify\starter\node_modules\core-js\actual\string\fontsize.js133634513506459651 0
 111C:\git\complete-javascript-course\18-forkify\starter\node_modules\core-js\modules\es.typed-array.int16-array.js133634513499262895 0
 99C:\git\complete-javascript-course\18-forkify\starter\node_modules\core-js\features\string\cooked.js133634513492702762 0
@@ -187,7 +186,7 @@
 93C:\git\complete-javascript-course\18-forkify\starter\node_modules\is-binary-path\package.json133632977273414212 0
 96C:\git\complete-javascript-course\18-forkify\starter\node_modules\css-tree\cjs\walker\create.cjs133632975065673479 0
 89C:\git\complete-javascript-course\18-forkify\starter\node_modules\parent-module\readme.md133632975059993322 0
-73C:\git\complete-javascript-course\18-forkify\starter\src\js\controller.js133635205479918681 0
+73C:\git\complete-javascript-course\18-forkify\starter\src\js\controller.js133636057603795631 0
 101C:\git\complete-javascript-course\18-forkify\starter\node_modules\@parcel\transformer-babel\README.md133632975064871028 0
 119C:\git\complete-javascript-course\18-forkify\starter\node_modules\core-js\internals\structured-clone-proper-transfer.js133634513527051424 0
 98C:\git\complete-javascript-course\18-forkify\starter\node_modules\lines-and-columns\build\index.js133632975059052473 0
@@ -279,12 +278,12 @@
 110C:\git\complete-javascript-course\18-forkify\starter\node_modules\core-js\internals\typed-array-constructor.js133634513531159472 0
 93C:\git\complete-javascript-course\18-forkify\starter\node_modules\core-js\es\instance\sort.js133634513525555651 0
 95C:\git\complete-javascript-course\18-forkify\starter\node_modules\core-js\internals\own-keys.js133634513520632400 0
-73C:\git\complete-javascript-course\18-forkify\starter\src\js\views\View.js133635170134771778 0
+73C:\git\complete-javascript-course\18-forkify\starter\src\js\views\View.js133636041566560279 0
 108C:\git\complete-javascript-course\18-forkify\starter\node_modules\core-js\features\typed-array\find-index.js133634513504705837 0
 83C:\git\complete-javascript-course\18-forkify\starter\node_modules\srcset\index.d.ts133632975060553745 0
 112C:\git\complete-javascript-course\18-forkify\starter\node_modules\css-select\node_modules\dom-serializer\lib\esm133632975063662026 1
 110C:\git\complete-javascript-course\18-forkify\starter\node_modules\caniuse-lite\data\features\battery-status.js133632975068094668 0
-68C:\git\complete-javascript-course\18-forkify\starter\src\js\model.js133635191118350048 0
+68C:\git\complete-javascript-course\18-forkify\starter\src\js\model.js133636019010744700 0
 96C:\git\complete-javascript-course\18-forkify\starter\node_modules\core-js\features\array\fill.js133634513503803152 0
 88C:\git\complete-javascript-course\18-forkify\starter\node_modules\type-fest\package.json133632975058886517 0
 65C:\git\complete-javascript-course\18-forkify\starter\src\js\views133635196084278390 1
@@ -299,7 +298,7 @@
 116C:\git\complete-javascript-course\18-forkify\starter\node_modules\csso\node_modules\css-tree\cjs\syntax\node\CDC.cjs133632975063122272 0
 82C:\git\complete-javascript-course\18-forkify\starter\node_modules\srcset\readme.md133632975060005763 0
 75C:\git\complete-javascript-course\18-forkify\starter\node_modules\lmdb\util133632975071052829 1
-83C:\git\complete-javascript-course\18-forkify\starter\src\js\views\paginationView.js133635207804802929 0
+83C:\git\complete-javascript-course\18-forkify\starter\src\js\views\paginationView.js133635210745631056 0
 78C:\git\complete-javascript-course\18-forkify\starter\node_modules\browserslist133632975062796863 1
 86C:\git\complete-javascript-course\18-forkify\starter\node_modules\csso\lib\restructure133632975069800491 1
 108C:\git\complete-javascript-course\18-forkify\starter\node_modules\core-js\modules\esnext.array.to-spliced.js133634513499971506 0
@@ -316,7 +315,7 @@
 82C:\git\complete-javascript-course\18-forkify\starter\node_modules\lmdb\src\dbi.cpp133632975069682837 0
 93C:\git\complete-javascript-course\18-forkify\starter\node_modules\@parcel\utils\src\config.js133632975063021875 0
 134C:\git\complete-javascript-course\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\index.js133632975068793103 0
-79C:\git\complete-javascript-course\18-forkify\starter\src\js\views\recipeView.js133635168552839268 0
+79C:\git\complete-javascript-course\18-forkify\starter\src\js\views\recipeView.js133636032100542544 0
 86C:\git\complete-javascript-course\18-forkify\starter\node_modules\is-json\package.json133632975058277205 0
 85C:\git\complete-javascript-course\18-forkify\starter\node_modules\core-js\full\regexp133634513529955178 1
 84C:\git\complete-javascript-course\18-forkify\starter\node_modules\chrome-trace-event133632975061016537 1
@@ -2602,7 +2601,7 @@
 79C:\git\complete-javascript-course\18-forkify\starter\node_modules\lmdb\index.js133632975070802801 0
 96C:\git\complete-javascript-course\18-forkify\starter\node_modules\cosmiconfig\dist\util.d.ts.map133632975066772909 0
 78C:\git\complete-javascript-course\18-forkify\starter\node_modules\lmdb\keys.js133632975070827819 0
-76C:\git\complete-javascript-course\18-forkify\starter\dist\icons.dfd7a6db.svg133635086194575830 0
+76C:\git\complete-javascript-course\18-forkify\starter\dist\icons.dfd7a6db.svg133636057050620865 0
 108C:\git\complete-javascript-course\18-forkify\starter\node_modules\core-js\internals\iterator-create-proxy.js133634513516091291 0
 122C:\git\complete-javascript-course\18-forkify\starter\node_modules\csso\node_modules\css-tree\cjs\parser\parse-selector.cjs133632975069592735 0
 94C:\git\complete-javascript-course\18-forkify\starter\node_modules\core-js\stable\array\sort.js133634513525862819 0
@@ -5188,7 +5187,7 @@
 97C:\git\complete-javascript-course\18-forkify\starter\node_modules\core-js\stable\instance\fill.js133634513503948451 0
 106C:\git\complete-javascript-course\18-forkify\starter\node_modules\core-js\features\object\lookup-setter.js133634513518040143 0
 102C:\git\complete-javascript-course\18-forkify\starter\node_modules\core-js\stable\instance\find-last.js133634513505221492 0
-78C:\git\complete-javascript-course\18-forkify\starter\dist\favicon.8b2f57bf.png133635086194085405 0
+78C:\git\complete-javascript-course\18-forkify\starter\dist\favicon.8b2f57bf.png133636056630634546 0
 141C:\git\complete-javascript-course\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\property\border.js133632975063718295 0
 106C:\git\complete-javascript-course\18-forkify\starter\node_modules\core-js\modules\es.symbol.description.js133634513498830127 0
 99C:\git\complete-javascript-course\18-forkify\starter\node_modules\core-js\modules\es.regexp.exec.js133634513498049596 0
@@ -8500,7 +8499,7 @@
 103C:\git\complete-javascript-course\18-forkify\starter\node_modules\@swc\helpers\src\_super_prop_base.mjs133632975074832831 0
 117C:\git\complete-javascript-course\18-forkify\starter\node_modules\@swc\helpers\src\_tagged_template_literal_loose.mjs133632975074842853 0
 100C:\git\complete-javascript-course\18-forkify\starter\node_modules\@swc\helpers\src\_to_primitive.mjs133632975074892973 0
-75C:\git\complete-javascript-course\18-forkify\starter\dist\logo.726d37a8.png133635086194230541 0
+75C:\git\complete-javascript-course\18-forkify\starter\dist\logo.726d37a8.png133636057050180487 0
 102C:\git\complete-javascript-course\18-forkify\starter\node_modules\@swc\helpers\esm\_to_property_key.js133632975071673099 0
 100C:\git\complete-javascript-course\18-forkify\starter\node_modules\@swc\helpers\src\_ts_generator.mjs133632975074927639 0
 94C:\git\complete-javascript-course\18-forkify\starter\node_modules\@swc\helpers\src\_update.mjs133632975074987964 0
@@ -9381,9 +9380,9 @@
 150C:\git\complete-javascript-course\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\aliases.d.ts133632975065618432 0
 154C:\git\complete-javascript-course\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\aliases.d.ts.map133632975063763347 0
 148C:\git\complete-javascript-course\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\aliases.js133632975059275059 0
-76C:\git\complete-javascript-course\18-forkify\starter\dist\index.f7626f62.css133635086194440709 0
+76C:\git\complete-javascript-course\18-forkify\starter\dist\index.f7626f62.css133636057050380670 0
 150C:\git\complete-javascript-course\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\filters.d.ts133632975065906693 0
-80C:\git\complete-javascript-course\18-forkify\starter\dist\index.f7626f62.css.map133635086194500764 0
+80C:\git\complete-javascript-course\18-forkify\starter\dist\index.f7626f62.css.map133636057050475740 0
 154C:\git\complete-javascript-course\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\filters.d.ts.map133632975064242876 0
 148C:\git\complete-javascript-course\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\index.d.ts133632975066167809 0
 152C:\git\complete-javascript-course\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\index.d.ts.map133632975064734523 0
@@ -9698,9 +9697,10 @@
 81C:\git\complete-javascript-course\18-forkify\starter\node_modules\.bin\parcel.ps1133632975194447916 0
 81C:\git\complete-javascript-course\18-forkify\starter\node_modules\.bin\semver.cmd133632975194447916 0
 93C:\git\complete-javascript-course\18-forkify\starter\node_modules\.bin\update-browserslist-db133632975194457927 0
-76C:\git\complete-javascript-course\18-forkify\starter\dist\icons.21bad73c.svg133635086194575830 0
 75C:\git\complete-javascript-course\18-forkify\starter\dist\index.62406edb.js133632977297688955 0
 79C:\git\complete-javascript-course\18-forkify\starter\dist\index.62406edb.js.map133632977297718982 0
-68C:\git\complete-javascript-course\18-forkify\starter\dist\index.html133635167089725100 0
 77C:\git\complete-javascript-course\18-forkify\starter\dist\starter.3464ddca.js133632977297628469 0
 81C:\git\complete-javascript-course\18-forkify\starter\dist\starter.3464ddca.js.map133632977297683952 0
+68C:\git\complete-javascript-course\18-forkify\starter\dist\index.html133636057050620865 0
+76C:\git\complete-javascript-course\18-forkify\starter\dist\icons.21bad73c.svg133636057050625873 0
+75C:\git\complete-javascript-course\18-forkify\starter\dist\index.e37f48ea.js133636057604558534 0
